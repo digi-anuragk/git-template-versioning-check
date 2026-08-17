@@ -8,9 +8,9 @@ metadata:
   path: /
   home: git versioning test
 spec:
-- template: check versioning
-  scheduledStartDate: 2026-08-13T09:00:00+05:30
-  dueDate: 2026-08-13T10:00:00+05:30
+- template: git-versioining-check-part2
+  description: asdasdasdasd
+  scheduledStartDate: 2026-08-17T09:00:00+05:30
   phases:
   - phase: New Phase
   riskProfile: Default risk profile
