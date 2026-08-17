@@ -7,5 +7,6 @@ kind: Import
 spec:
   imports:
   - Notifications.yaml
+  - Template_abcdef.yaml
   - Template_check_versioning.yaml
   - Template_git-versioining-check-part2.yaml
