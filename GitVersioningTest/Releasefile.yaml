@@ -1,0 +1,10 @@
+# Exported from:        http://Anurags-MacBook-Pro.local:5516/
+# Release version:      24.1.0
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Notifications.yaml
+  - Template_check_versioning.yaml

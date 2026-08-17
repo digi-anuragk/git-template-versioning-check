@@ -1,0 +1,12 @@
+# Exported from:        http://Anurags-MacBook-Pro.local:5516/
+# Release version:      24.1.0
+
+---
+apiVersion: xl-release/v1
+kind: Templates
+metadata:
+  path: /
+  home: git versioning test
+spec:
+- notifications: []
+  inheritFromParent: true
