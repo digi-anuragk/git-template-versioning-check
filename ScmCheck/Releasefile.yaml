@@ -7,3 +7,4 @@ kind: Import
 spec:
   imports:
   - Notifications.yaml
+  - Template_check1.yaml
