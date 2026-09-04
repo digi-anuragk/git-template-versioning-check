@@ -1,0 +1,25 @@
+# Exported from:        http://Anurags-MacBook-Pro.local:5516/
+# Release version:      24.1.0
+
+---
+apiVersion: xl-release/v1
+kind: Templates
+metadata:
+  path: /
+  home: scm check
+spec:
+- template: scm-check-workflow-tempalte
+  scheduledStartDate: 2026-09-04T09:00:00+05:30
+  phases:
+  - phase: Workflow tasks
+    tasks:
+    - name: New task
+      type: xlrelease.Task
+    - name: New task
+      type: xlrelease.Task
+    - name: New task
+      type: xlrelease.Task
+  kind: WORKFLOW
+  disableNotifications: true
+  author: admin
+  defaultTargetFolder: ./

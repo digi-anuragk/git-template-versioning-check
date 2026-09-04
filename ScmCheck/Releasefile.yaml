@@ -8,3 +8,4 @@ spec:
   imports:
   - Notifications.yaml
   - Template_check1.yaml
+  - Workflow_scm-check-workflow-tempalte.yaml
